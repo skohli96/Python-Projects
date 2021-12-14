@@ -1,0 +1,1 @@
+This is one of my first real world projects in python. It is an algobot which takes in S&P 500 data from IEX CLOUD API, and on the basis of certain indicators and factors, helps the user to build a portfolio based on the amount they want to invest.
